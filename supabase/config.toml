@@ -1,0 +1,4 @@
+project_id = "blast-messenger"
+
+[functions.send-message]
+verify_jwt = true
